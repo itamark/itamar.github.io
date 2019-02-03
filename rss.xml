@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[itamar]]></title><description><![CDATA[This is my blog where I write about things]]></description><link>https://gatsby-starter-blog-demo.netlify.com/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 03 Feb 2019 11:43:07 GMT</lastBuildDate><item><title><![CDATA[Javascript Symbols]]></title><description><![CDATA[Some background Recently, I had the opportunity to interview at one of the bigger companies - the kind with software engineers at the top of…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//js-symbols/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//js-symbols/</guid><pubDate>Sun, 03 Feb 2019 09:55:48 GMT</pubDate><content:encoded>&lt;h2&gt;Some background&lt;/h2&gt;
+&lt;p&gt;Recently, I had the opportunity to interview at one of the bigger companies - the kind with software engineers at the top of their field.&lt;/p&gt;
+&lt;p&gt;As part of the full-day, 5-interview ‘loop’ they put me through - I was asked to present on any topic of my choosing. This gave me serious anxiety.
+What topic could I possibly suggest? &lt;/p&gt;
+&lt;p&gt;I decided to break down the factors to consider:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It should somehow be new or interesting to these top-of-the-field frontend developers.&lt;/li&gt;
+&lt;li&gt;It should be long enough that there would be enough content to delve deeper into.&lt;/li&gt;
+&lt;li&gt;It should be short enough that it can be explained in full with enough time for questions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I began researching topics - and thought the best route might be to go with a newer part of Javascript - ES6. More specifically, I wanted to find a feature that is
+powerful, has many use cases, but simple and straightforward.&lt;br&gt;
+Then I found the Symbol.&lt;/p&gt;
+&lt;h2&gt;Why I chose Symbol&lt;/h2&gt;
+&lt;p&gt;Symbol ticked all of the above boxes.&lt;br&gt;
+The concept is simple - it’s a JS primitive, after all.&lt;/p&gt;
+&lt;!-- 
+## On deer horse aboard tritely yikes and much
+
+The Big Oxmox advised her not to do so, because there were thousands of bad
+Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
+didn’t listen. She packed her seven versalia, put her initial into the belt and
+made herself on the way.
+
+- This however showed weasel
+- Well uncritical so misled
+  - this is very interesting
+- Goodness much until that fluid owl
+
+When she reached the first hills of the **Italic Mountains**, she had a last
+view back on the skyline of her hometown _Bookmarksgrove_, the headline of
+[Alphabet Village](http://google.com) and the subline of her own road, the Line
+Lane. Pityful a rethoric question ran over her cheek, then she continued her
+way. On her way she met a copy.
+
+### Overlaid the jeepers uselessly much excluding
+
+But nothing the copy said could convince her and so it didn’t take long until a
+few insidious Copy Writers ambushed her, made her drunk with
+[Longe and Parole](http://google.com) and dragged her into their agency, where
+they abused her for their projects again and again. And if she hasn’t been
+rewritten, then they are still using her.
+
+&gt; Far far away, behind the word mountains, far from the countries Vokalia and
+&gt; Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
+&gt; right at the coast of the Semantics, a large language ocean.
+
+It is a paradisematic country, in which roasted parts of sentences fly into your
+mouth. Even the all-powerful Pointing has no control about the blind texts it is
+an almost unorthographic life One day however a small line of blind text by the
+name of Lorem Ipsum decided to leave for the far World of Grammar.
+
+### According a funnily until pre-set or arrogant well cheerful
+
+The Big Oxmox advised her not to do so, because there were thousands of bad
+Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
+didn’t listen. She packed her seven versalia, put her initial into the belt and
+made herself on the way.
+
+1.  So baboon this
+2.  Mounted militant weasel gregariously admonishingly straightly hey
+3.  Dear foresaw hungry and much some overhung
+4.  Rash opossum less because less some amid besides yikes jeepers frenetic
+    impassive fruitlessly shut
+
+When she reached the first hills of the Italic Mountains, she had a last view
+back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
+Village and the subline of her own road, the Line Lane. Pityful a rethoric
+question ran over her cheek, then she continued her way. On her way she met a
+copy.
+
+&gt; The copy warned the Little Blind Text, that where it came from it would have
+&gt; been rewritten a thousand times and everything that was left from its origin
+&gt; would be the word &quot;and&quot; and the Little Blind Text should turn around and
+&gt; return to its own, safe country.
+
+But nothing the copy said could convince her and so it didn’t take long until a
+few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
+and dragged her into their agency, where they abused her for their projects
+again and again. And if she hasn’t been rewritten, then they are still using
+her. Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts.
+
+#### Silent delightfully including because before one up barring chameleon
+
+Separated they live in Bookmarksgrove right at the coast of the Semantics, a
+large language ocean. A small river named Duden flows by their place and
+supplies it with the necessary regelialia. It is a paradisematic country, in
+which roasted parts of sentences fly into your mouth.
+
+Even the all-powerful Pointing has no control about the blind texts it is an
+almost unorthographic life One day however a small line of blind text by the
+name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
+advised her not to do so, because there were thousands of bad Commas, wild
+Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+
+##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+
+She packed her seven versalia, put her initial into the belt and made herself on
+the way. When she reached the first hills of the Italic Mountains, she had a
+last view back on the skyline of her hometown Bookmarksgrove, the headline of
+Alphabet Village and the subline of her own road, the Line Lane. Pityful a
+rethoric question ran over her cheek, then she continued her way. On her way she
+met a copy.
+
+###### Slapped cozy a that lightheartedly and far
+
+The copy warned the Little Blind Text, that where it came from it would have
+been rewritten a thousand times and everything that was left from its origin
+would be the word &quot;and&quot; and the Little Blind Text should turn around and return
+to its own, safe country. But nothing the copy said could convince her and so it
+didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
+with Longe and Parole and dragged her into their agency, where they abused her
+for their projects again and again. --&gt;</content:encoded></item><item><title><![CDATA[Generator Functions]]></title><link>https://gatsby-starter-blog-demo.netlify.com//generator-functions.1/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//generator-functions.1/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;!-- This is my first post on my new fake blog! How exciting!
+
+I&apos;m sure I&apos;ll write a lot more interesting things in the future.
+
+Oh, and here&apos;s a great quote from this Wikipedia on
+[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+
+&gt; A salted duck egg is a Chinese preserved food product made by soaking duck
+&gt; eggs in brine, or packing each egg in damp, salted charcoal. In Asian
+&gt; supermarkets, these eggs are sometimes sold covered in a thick layer of salted
+&gt; charcoal paste. The eggs may also be sold with the salted paste removed,
+&gt; wrapped in plastic, and vacuum packed. From the salt curing process, the
+&gt; salted duck eggs have a briny aroma, a gelatin-like egg white and a
+&gt; firm-textured, round yolk that is bright orange-red in color.
+
+![Chinese Salty Egg](./salty_egg.jpg) --&gt;</content:encoded></item><item><title><![CDATA[Generator Functions]]></title><link>https://gatsby-starter-blog-demo.netlify.com//generator-functions/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//generator-functions/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;!-- This is my first post on my new fake blog! How exciting!
+
+I&apos;m sure I&apos;ll write a lot more interesting things in the future.
+
+Oh, and here&apos;s a great quote from this Wikipedia on
+[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+
+&gt; A salted duck egg is a Chinese preserved food product made by soaking duck
+&gt; eggs in brine, or packing each egg in damp, salted charcoal. In Asian
+&gt; supermarkets, these eggs are sometimes sold covered in a thick layer of salted
+&gt; charcoal paste. The eggs may also be sold with the salted paste removed,
+&gt; wrapped in plastic, and vacuum packed. From the salt curing process, the
+&gt; salted duck eggs have a briny aroma, a gelatin-like egg white and a
+&gt; firm-textured, round yolk that is bright orange-red in color.
+
+![Chinese Salty Egg](./salty_egg.jpg) --&gt;</content:encoded></item></channel></rss>
