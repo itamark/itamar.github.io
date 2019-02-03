@@ -31,7 +31,7 @@ function Bio() {
               }}
             />
             <p>
-              <strong><a href={`https://twitter.com/${social.twitter}`}>{author}</a></strong> is a Software Engineer at <strong><a href={`https://next-insurance.com`}>{work}</a></strong>
+              <strong><a target="_blank" href={`https://twitter.com/${social.twitter}`}>{author}</a></strong> is a Software Engineer at <strong><a target="_blank" href={`https://next-insurance.com`}>{work}</a></strong>
             </p>
           </div>
         )

@@ -49,8 +49,12 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "deploy": "gatsby build && gh-pages -d public -b master",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }

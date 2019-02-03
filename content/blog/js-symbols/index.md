@@ -5,7 +5,8 @@ date: "2019-02-03T09:55:48.198Z"
 
 ## Some background
 
-Recently, I had the opportunity to interview at one of the bigger companies - the kind with software engineers at the top of their field.
+Lorem Ipsum dolor sit amet
+<!-- Recently, I had the opportunity to interview at one of the bigger companies - the kind with software engineers at the top of their field.
 
 As part of the full-day, 5-interview 'loop' they put me through - I was asked to present on any topic of my choosing. This gave me serious anxiety.
 What topic could I possibly suggest? 
@@ -22,7 +23,7 @@ Then I found the Symbol.
 ## Why I chose Symbol
 
 Symbol ticked all of the above boxes.  
-The concept is simple - it's a JS primitive, after all.
+The concept is simple - it's a JS primitive, after all. -->
 
 
 <!-- 
