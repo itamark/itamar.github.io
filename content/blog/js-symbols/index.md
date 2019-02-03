@@ -1,13 +1,31 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
+title: Javascript Symbols
+date: "2019-02-03T09:55:48.198Z"
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+## Some background
 
+Recently, I had the opportunity to interview at one of the bigger companies - the kind with software engineers at the top of their field.
+
+As part of the full-day, 5-interview 'loop' they put me through - I was asked to present on any topic of my choosing. This gave me serious anxiety.
+What topic could I possibly suggest? 
+
+I decided to break down the factors to consider:  
+* It should somehow be new or interesting to these top-of-the-field frontend developers.
+* It should be long enough that there would be enough content to delve deeper into.
+* It should be short enough that it can be explained in full with enough time for questions.
+
+I began researching topics - and thought the best route might be to go with a newer part of Javascript - ES6. More specifically, I wanted to find a feature that is 
+powerful, has many use cases, but simple and straightforward.  
+Then I found the Symbol.
+
+## Why I chose Symbol
+
+Symbol ticked all of the above boxes.  
+The concept is simple - it's a JS primitive, after all.
+
+
+<!-- 
 ## On deer horse aboard tritely yikes and much
 
 The Big Oxmox advised her not to do so, because there were thousands of bad
@@ -104,4 +122,4 @@ would be the word "and" and the Little Blind Text should turn around and return
 to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+for their projects again and again. -->

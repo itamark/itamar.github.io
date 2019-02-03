@@ -4,6 +4,7 @@ module.exports = {
     author: `Itamar Kestenbaum`,
     description: `This is my blog where I write about things`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    work: 'Next Insurance',
     social: {
       twitter: `itamarok`,
     },
